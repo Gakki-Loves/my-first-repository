@@ -7,3 +7,5 @@ qaq
 v1.0 master
 
 刚刚学会推送git了
+
+开心.exe
